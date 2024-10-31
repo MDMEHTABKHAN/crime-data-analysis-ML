@@ -4,7 +4,7 @@ Using data sourced from the Toronto Police (http://data.torontopolice.on.ca/page
 The model performs reasonably well on F1-score (precision and recall) for a five-class classification problem. Though the data set is somewhat unbalanced towards assaults (higher volume), balancing class weights does not materially impact model performance.
 
 # Project: Crime Data Analysis Using Machine Learning
-# Description: Developed a machine learning model to analyze and predict crime patterns based on historical data. Leveraged Python and data analysis techniques to classify criminal incidents by type, time, and location, providing law enforcement agencies with actionable insights to enhance response strategies and prevent criminal activities.
+Description: Developed a machine learning model to analyze and predict crime patterns based on historical data. Leveraged Python and data analysis techniques to classify criminal incidents by type, time, and location, providing law enforcement agencies with actionable insights to enhance response strategies and prevent criminal activities.
 
 # Skills and Technologies Used:
 
