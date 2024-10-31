@@ -5,7 +5,8 @@ The model performs reasonably well on F1-score (precision and recall) for a five
 
 # Project: Crime Data Analysis Using Machine Learning
 # Description: Developed a machine learning model to analyze and predict crime patterns based on historical data. Leveraged Python and data analysis techniques to classify criminal incidents by type, time, and location, providing law enforcement agencies with actionable insights to enhance response strategies and prevent criminal activities.
-Skills and Technologies Used:
+
+# Skills and Technologies Used:
 
 Machine Learning Algorithms: Decision Tree, Naive Bayes, Logistic Regression, k-Nearest Neighbor, Ensemble Methods <br>
 Data Analysis & Processing: Data wrangling, feature engineering, and exploratory data analysis using Pandas and NumPy <br>
